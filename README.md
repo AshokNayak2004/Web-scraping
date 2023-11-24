@@ -21,7 +21,7 @@ Make sure you have the following Python packages installed before running the sc
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
-# URL to scrape (replace with the URL of the website you want to scrape)
+# URL to scrape
 url = 'https://example.com'
 
 
