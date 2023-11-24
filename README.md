@@ -7,6 +7,6 @@ This repository contains a simple Python script for web scraping using Beautiful
 
    ```bash
    git clone https://github.com/AshokNayak2004/Web-scraping.git
-   cd webscraping  # Adjust the directory name to match your repository
+   cd Web-scraping  # Adjust the directory name to match your repository
    pip install -r requirements.txt
    python scrape_example.py
